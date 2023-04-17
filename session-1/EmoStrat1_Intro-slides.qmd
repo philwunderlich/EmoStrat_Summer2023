@@ -10,13 +10,17 @@ embed-resources: true
 
 # Introduction
 
--   Topic: What are emotions? How are they stratified? Why is this relevant?
+. . .
 
--   Interest & learning goals
+1.  Emotions in sociology
 
--   Course plan, requirements, tasks
+2.  Learning goals of this seminar
 
--   Seminar paper
+3.  Requirements & tasks
+
+4.  Course plan
+
+5.  Organizational issues
 
 # Emotions in sociology
 
@@ -24,8 +28,7 @@ embed-resources: true
 
 > „(...) emotions constitute the bodily manifestation of the importance that an event in the natural or social world has for a subject." (Bericat, 2016, p. 493)
 
-. . .
-
+::: incremental
 -   *Appraisals* of situations or objects
 
 -   *Relational* nature
@@ -35,9 +38,11 @@ embed-resources: true
 -   Action tendencies & *motivations*
 
 -   ➔ Emotions are social, social life is emotional
+:::
 
 ## Sociology of emotions
 
+::: incremental
 -   Emotion cultures, norms, rules
 
 -   Social constructionist perspectives on emotions
@@ -47,9 +52,11 @@ embed-resources: true
 -   Emotions in social interaction and ritual encounters
 
 -   Structural accounts, power and status
+:::
 
 ## Examples
 
+::: incremental
 -   Anger and indignation as drivers of social movements and protest.
 
 -   Shame and pride as emotions of social control (e.g. flight shame).
@@ -57,61 +64,79 @@ embed-resources: true
 -   Deep acting of emotions in service professions
 
 -   Emotional dynamics underlying right-wing populism
+:::
 
 # This seminar
 
-## Interest
+## Interest & preconceptions
 
--   What are you expecting from the course? What is your *personal* interest (previous studies etc.)?
+-   What are you expecting from the course? What is your *personal* interest (in light of your previous studies)?
 
--   How are emotions related to dimensions of inequality such as class, gender, race, age or education?
+-   How do you think emotions are related to dimensions of inequality such as class, gender, race, age or education?
 
 ## Learning goals
 
--   Explore the research field of emotional stratification, a sub-field of the sociology of emotions
+::: incremental
+-   Explore the research field of emotional stratification.
 
--   *Focus on writing*: How to author papers and provide feedback.
+    -   How does social structure affect emotions?
 
--   What we WON'T focus on:
+    -   How do emotions reproduce social structure?
 
+-   *Focus on writing*: How to author papers and provide helpful feedback.
+:::
+
+. . .
+
+-   NOT our focus:
+
+    ::: incremental
     -   Applied quantitative socio-structural analysis.
 
     -   Country comparisons
 
     -   *Comprehensive* explanations of social inequalities
+    :::
 
 # Requirements
 
+::: incremental
 -   Regular participation
 
 -   Active participation
 
     -   Mandatory reading and reading responses
 
-    -   Submission tasks
+    -   Submission tasks (RQ, first draft)
 
--   Module exam (Seminar paper)
+-   Grade (Seminar paper / oral exam)
+:::
 
 ## Regular participation
 
+::: incremental
 -   You may miss up to 2 sessions without a doctor's note.
 
 -   I will not control your presence regularly, but:
 
 -   You have to attend regularly, to be able to fulfill active participation
+:::
 
 ## Active participation
 
--   Questions and Reading responses have to be uploaded each Friday (noon).
+::: incremental
+-   Reading responses have to be uploaded each Sunday (end of day).
 
     -   Miss no more than 2.
 
 -   Submission of research question (31.5.2023)
 
--   Submission of first draft (5.7.2023)
+-   Submission of first draft (750-1500 words, 5.7.2023)
+:::
 
-## Seminar paper
+## Module exam
 
+::: incremental
 -   Either seminar paper or oral exam.
 
     -   Seminar paper recommended in this writing-focused course.
@@ -120,7 +145,8 @@ embed-resources: true
 
 -   Seminar papers will be developed throughout the course
 
--   Submit until September 30st. (3.000 words)
+-   Submit final paper until September 30st. (\>3.000 words)
+:::
 
 # Course plan
 
@@ -130,19 +156,23 @@ embed-resources: true
 
     -   Weekly reading responses
 
-    -   Develop research questions
+    -   Develop research questions!
 
 2.  Studies & applications (5 weeks)
 
     -   Weekly reading responses
 
-    -   Write first drafts
+    -   Write first drafts!
 
 3.  Peer review (2 weeks)
 
 4.  Seminar paper
 
+## Syllabus
+
 # Course organization
+
+## Blackboard
 
 -   Blackboard
 
@@ -154,4 +184,22 @@ embed-resources: true
 
 -   [Blackboard: POLSOZ_H\_30208_23S](https://fu-berlin.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_5422739_1&course_id=_182808_1&mode=view#_5422739_1 "Blackboard course")
 
+    -   self-enrollment is enabled.
+
+    -   external students need to register as [auditors](https://www.fu-berlin.de/en/studium/studienorganisation/immatrikulation/weitere-angebote/nebenhoerer/index.html)
+
+## Literature
+
+-   You should be able to access all course readings in one of three ways:
+
+    -   Log in to eduroam or the [VPN network](https://www.zedat.fu-berlin.de/VPN "vpn info") and use the DOIs of the papers to find and download them.
+
+    -   Within eduroam or the VPN network you can use the [PRIMO library catalog](https://fu-berlin.primo.exlibrisgroup.com/discovery/search?vid=49KOBV_FUB:FUB&sortby=rank&lang=de) to access digital versions of the literature.
+
+    -   In rare cases in which books are not accessible online, I will provide copies in due time.
+
 # Questions?
+
+## Blackboard login
+
+![](images/qrcode_fu-berlin.blackboard.com.png)
