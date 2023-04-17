@@ -12,7 +12,7 @@ embed-resources: true
 
 -   Topic: What are emotions? How are they stratified? Why is this relevant?
 
--   Learning goals
+-   Interest & learning goals
 
 -   Course plan, requirements, tasks
 
@@ -58,7 +58,7 @@ embed-resources: true
 
 -   Emotional dynamics underlying right-wing populism
 
-# The course
+# This seminar
 
 ## Interest
 
@@ -128,13 +128,11 @@ embed-resources: true
 
 1.  General approaches (4 weeks)
 
-    -   Weekly questions
+    -   Weekly reading responses
 
     -   Develop research questions
 
 2.  Studies & applications (5 weeks)
-
-    -   Pick at least 1 reading
 
     -   Weekly reading responses
 
