@@ -107,7 +107,7 @@ embed-resources: true
 
     -   Mandatory reading and reading responses
 
-    -   Submission tasks (RQ, first draft)
+    -   Writing tasks (RQ, first draft)
 
 -   Grade (Seminar paper / oral exam)
 :::
@@ -170,7 +170,7 @@ embed-resources: true
 
 ## Syllabus
 
-# Course organization
+# Technicalities
 
 ## Blackboard
 
